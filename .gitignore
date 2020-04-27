@@ -1,0 +1,16 @@
+/terrafrom-installer.sh
+/dca_ui/__pycache__
+/**/*.pyc
+/dca_ui/crash.log
+/dist/**
+/build/**
+/*.egg-info/**
+/user/plans/**
+/user/states/**
+/user/vars/**
+**/.DS_Store
+**/*.tfvars
+**/*.tfstate
+**/*.tfstate.backup
+**/.terraform/**
+**/.terraform*
